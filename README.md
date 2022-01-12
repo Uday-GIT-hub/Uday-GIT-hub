@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Uday-GIT-hub/Uday-GIT-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,23 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 -->
-Fancy seeing you here! 
-I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from The Univesity of Texas at Dallas. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-Linkedin Badge Instagram Badge Youtube Badge Medium Badge Gmail Badge
 
-⚡ Technologies
-JavaScript Nodejs Python React Java C++ HTML5 CSS3 Bootstrap TypeScript MongoDB Redis ElasticSearch GraphQL Apollo GraphQL PostgreSQL MySQL Heroku Docker DigitalOcean Amazon AWS Microsoft Azure Google Cloud Git GitHub GitLab BitBucket Raspberry Pi
+## hey man! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-Github Stats Top Langs
+I am Banka Uday, people call me uday, currently pursuing my bachelor's degree  from [IIITDM](https://utdallas.edu/). I am a design enthusiast & an Self-taught-learner. I am always open to learning new languages and devloping innovative/disruptive ideas.U can connect with me here:
 
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
-I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from [The Univesity of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
-
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/banka-uday/)](https://www.linkedin.com/in/banka-uday/)
 [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+
 [![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
 [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 
@@ -68,4 +60,4 @@ I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+
