@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 
 ## hey man! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Banka Uday, people call me uday, currently pursuing my bachelor's degree  from [IIITDM](https://utdallas.edu/). I am a design enthusiast & an Self-taught-learner. I am always open to learning new languages and devloping innovative/disruptive ideas.U can connect with me here:
+I am Banka Uday, people call me uday, currently pursuing my bachelor's degree  from [IIITDM](https://utdallas.edu/). I am a design enthusiast & an Self-taught-learner. I am always open to learn new languages and devlops innovative/disruptive ideas. u can connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/banka-uday/)](https://www.linkedin.com/in/banka-uday/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
+[![Gmail Badge](https://img.shields.io/badge/-udaychandu9999777@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:udaychandu9999777@gmail.com)](mailto:udaychandu9999777@gmail.com)
 
 ## ⚡ Technologies
 
