@@ -39,7 +39,7 @@ u can connect with me here: :point_down:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Uday-GIT-hub)](https://git.io/streak-stats)
 [![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uday-GIT-hub)](https://github.com/Uday-GIT-hub/github-readme-stats)
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+
 
 
 
