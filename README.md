@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I am Banka Uday, people call me uday, currently pursuing my bachelor's degree  from [IIITDM](https://utdallas.edu/). I am a design enthusiast & an Self-taught-learner. I am always open to learn new languages and devlops innovative/disruptive ideas. u can connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/banka-uday/)](https://www.linkedin.com/in/banka-uday/)
+[![Linkedin Badge](https://img.shields.io/badge/-banka-uday-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/banka-uday/)](https://www.linkedin.com/in/banka-uday/)
 [![Twitter Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
 [![Gmail Badge](https://img.shields.io/badge/-udaychandu9999777@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:udaychandu9999777@gmail.com)](mailto:udaychandu9999777@gmail.com)
 
