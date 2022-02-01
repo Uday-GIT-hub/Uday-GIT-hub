@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **React js,Mern stack**
 
-- 💬 Ask me about **Javascript , Bootstrap ,PHP**
-
 - 📫 How to reach me **udaychandu9999777@gmail.com**
 
 - ⚡ Fun fact **I am a Movie and cricket Lover**
