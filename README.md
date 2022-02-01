@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Uday</h1>
-<h3 align="center">A Passionate Web developer and design enthusiast from India</h3>
+<h3 align="center">A Passionate software developer  from India</h3>
 
 <p align="left"> <a href="https://twitter.com/uday50327364" target="blank"><img src="https://img.shields.io/twitter/follow/uday50327364?logo=twitter&style=for-the-badge" alt="uday50327364" /></a> </p>
 
